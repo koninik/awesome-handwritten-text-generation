@@ -145,5 +145,7 @@ If you find this work useful for your research, please cite:
 }
 ```
 
+---
+
 ## ⭐ StarGraph
 [![Star History Chart](https://api.star-history.com/svg?repos=koninik/awesome-handwritten-text-generation&type=Timeline&theme=dark)](https://star-history.com/#koninik/awesome-handwritten-text-generation&Timeline&theme=dark)
