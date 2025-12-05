@@ -7,7 +7,7 @@ A curated collection of **methods**, **datasets**, and **evaluation tools** for 
 
 This repo is a work based on the PhD monograph thesis [*Handwritten Text Generation with Diffusion Models: Beyond Visual Quality*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2006187&dswid=-3172) 
 
-_Konstantina Nikolaidou_, 2025 - Advisors: _Marcus Liwicki_, _George Retsinas_, _Giorgos Sfikas_  
+_Konstantina Nikolaidou_, 2025 - Advisors: _Marcus Liwicki_, [_George Retsinas_](https://github.com/georgeretsi), [_Giorgos Sfikas_](https://github.com/sfikas)  
 
 
 ---
