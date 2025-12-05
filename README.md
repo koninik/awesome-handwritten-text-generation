@@ -1,4 +1,4 @@
-# Handwritten Text Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Handwritten Text Generation (HTG) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated collection of **methods**, **datasets**, and **evaluation tools** for *Handwritten Text Generation (HTG)*.
 
