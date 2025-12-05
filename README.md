@@ -2,7 +2,7 @@
 
 A curated collection of **methods**, **datasets**, and **evaluation tools** for *Handwritten Text Generation (HTG)*.
 
-❗ Latest Update: 4 Dec 2025
+❗ Latest Update: 5 Dec 2025
 
 This repo is a work based on the PhD monograph thesis [*Handwritten Text Generation with Diffusion Models: Beyond Visual Quality*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2006187&dswid=-3172) 
 
@@ -116,6 +116,9 @@ _Konstantina Nikolaidou_, 2025 - Advisors: _Marcus Liwicki_, _George Retsinas_, 
 <details open>
 <summary><h2>📖 Surveys</h2></summary>
 
+- [Handwriting synthesis: classifications and techniques](https://link.springer.com/content/pdf/10.1007/s10032-014-0231-x.pdf)
+- [Handwriting Generation and Synthesis: A Review](https://ieeexplore.ieee.org/document/9776932)
+- [Data Augmentation for Offline Handwritten Text Recognition: A Systematic Literature Review](https://link.springer.com/article/10.1007/s42979-023-02583-6)
 - [A survey of handwriting synthesis from 2019 to 2024: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S0031320325000172)
 </details>
 
