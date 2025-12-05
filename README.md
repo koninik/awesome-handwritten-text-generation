@@ -143,3 +143,7 @@ If you find this work useful for your research, please cite:
   year={2025},
   school={Lule{\aa} University of Technology}
 }
+```
+
+## ⭐ StarGraph
+[![Star History Chart](https://api.star-history.com/svg?repos=koninik/awesome-handwritten-text-generation&type=Timeline&theme=dark)](https://star-history.com/#koninik/awesome-handwritten-text-generation&Timeline&theme=dark)
