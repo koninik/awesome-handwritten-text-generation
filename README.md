@@ -27,15 +27,6 @@ _Konstantina Nikolaidou_, 2025 - Advisors: _Marcus Liwicki_, _George Retsinas_, 
 <details open>
 <summary><h2>🧠 HTG Methods</h2></summary>
 
----
-
-## Variational Autoencoders (VAEs)
-
-| Method / Model | Paper (full title) | Venue / Year | Granularity / Setting | Paper / Code Link |
-|---|---|---|---|---|
-| Cross-VAE | Modality Conversion of Handwritten Patterns by Cross Variational Autoencoders} | ICDAR 2019 | online/offline conversion, character-level | [📄 Paper](https://ieeexplore.ieee.org/document/8978197) |
-| DeepWriteSYN | DeepWriteSYN: On-line Handwriting Synthesis via Deep Short-Term Representations | AAAI 2021 | online, character/short-sequence | [📄 Paper](https://cdn.aaai.org/ojs/16139/16139-13-19633-1-2-20210518.pdf) |
-| Emuru-VAE | Zero-Shot Styled Text Image Generation, but Make It Autoregressive | CVPR 2025 | font-based, writer/HTR VAE pre-training on synth lines| [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Pippi_Zero-Shot_Styled_Text_Image_Generation_but_Make_It_Autoregressive_CVPR_2025_paper.html) <br> [💻 Code](https://github.com/aimagelab/Emuru-autoregressive-text-img?tab=readme-ov-file)
 
 ---
 
@@ -87,7 +78,15 @@ _Konstantina Nikolaidou_, 2025 - Advisors: _Marcus Liwicki_, _George Retsinas_, 
 | Emuru | Zero-Shot Styled Text Image Generation, but Make It Autoregressive | CVPR 2025 | font-based, synthetic, line-level, autoregressive | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Pippi_Zero-Shot_Styled_Text_Image_Generation_but_Make_It_Autoregressive_CVPR_2025_paper.html) <br> [💻 Code](https://github.com/aimagelab/Emuru-autoregressive-text-img?tab=readme-ov-file) |
 | Eruku | Zero-Shot Styled Text Image Generation, but Make It Autoregressive | WACV 2026 | font-based, synthetic, line-level, autoregressive | [📄 Paper](https://arxiv.org/pdf/2510.23240) <br> [💻 Code](https://aimagelab.github.io/Eruku/) |
 
+---
 
+## Variational Autoencoders (VAEs)
+
+| Method / Model | Paper (full title) | Venue / Year | Granularity / Setting | Paper / Code Link |
+|---|---|---|---|---|
+| Cross-VAE | Modality Conversion of Handwritten Patterns by Cross Variational Autoencoders} | ICDAR 2019 | online/offline conversion, character-level | [📄 Paper](https://ieeexplore.ieee.org/document/8978197) |
+| DeepWriteSYN | DeepWriteSYN: On-line Handwriting Synthesis via Deep Short-Term Representations | AAAI 2021 | online, character/short-sequence | [📄 Paper](https://cdn.aaai.org/ojs/16139/16139-13-19633-1-2-20210518.pdf) |
+| Emuru-VAE | Zero-Shot Styled Text Image Generation, but Make It Autoregressive | CVPR 2025 | font-based, writer/HTR VAE pre-training on synth lines| [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Pippi_Zero-Shot_Styled_Text_Image_Generation_but_Make_It_Autoregressive_CVPR_2025_paper.html) <br> [💻 Code](https://github.com/aimagelab/Emuru-autoregressive-text-img?tab=readme-ov-file)
 </details>
 
 <details open>
