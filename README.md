@@ -113,6 +113,8 @@ _Konstantina Nikolaidou_, 2025 - Advisors: _Marcus Liwicki_, _George Retsinas_, 
 
 </details>
 
+---
+
 <details open>
 <summary><h2>📖 Surveys</h2></summary>
 
@@ -121,6 +123,8 @@ _Konstantina Nikolaidou_, 2025 - Advisors: _Marcus Liwicki_, _George Retsinas_, 
 - [Data Augmentation for Offline Handwritten Text Recognition: A Systematic Literature Review](https://link.springer.com/article/10.1007/s42979-023-02583-6)
 - [A survey of handwriting synthesis from 2019 to 2024: A comprehensive review](https://www.sciencedirect.com/science/article/pii/S0031320325000172)
 </details>
+
+---
 
 <details open>
 <summary><h2>🧩 Evaluation</h2></summary>
