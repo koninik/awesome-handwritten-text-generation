@@ -13,10 +13,10 @@ _Konstantina Nikolaidou_, 2025 - Advisors: _Marcus Liwicki_, _George Retsinas_, 
 
 # 📚 Contents
 - [🧠 HTG Methods](#-htg-methods)
-  - [Variational Autoencoders (VAEs)](#variational-autoencoders-vaes)
   - [Generative Adversarial Networks (GANs)](#generative-adversarial-networks-gans)
   - [Diffusion Models](#diffusion-models)
   - [Autoregressive Models](#autoregressive--transformer-models-non-gan)
+  - [Variational Autoencoders (VAEs)](#variational-autoencoders-vaes)
 - [📝 Handwriting Datasets](#-handwriting-datasets)
   - [Modern Handwriting Datasets](#-modern-handwriting-datasets)
   - [Synthetic Handwriting Datasets](#-synthetic-handwriting-datasets)
