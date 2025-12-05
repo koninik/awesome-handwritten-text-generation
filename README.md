@@ -3,6 +3,7 @@
 A curated collection of **methods**, **datasets**, and **evaluation tools** for *Handwritten Text Generation (HTG)*.
 
 ❗ Latest Update: 5 Dec 2025
+🚧 Under Construction (updates might be needed)
 
 This repo is a work based on the PhD monograph thesis [*Handwritten Text Generation with Diffusion Models: Beyond Visual Quality*](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A2006187&dswid=-3172) 
 
