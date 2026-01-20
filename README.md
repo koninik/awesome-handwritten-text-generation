@@ -78,7 +78,7 @@ _Konstantina Nikolaidou_, 2025 - Advisors: _Marcus Liwicki_, [_George Retsinas_]
 | Method / Model | Paper (full title) | Venue / Year | Granularity / Setting | Paper / Code Link |
 |---|---|---|---|---|
 | Emuru | Zero-Shot Styled Text Image Generation, but Make It Autoregressive | CVPR 2025 | font-based, synthetic, line-level, autoregressive | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Pippi_Zero-Shot_Styled_Text_Image_Generation_but_Make_It_Autoregressive_CVPR_2025_paper.html) <br> [💻 Code](https://github.com/aimagelab/Emuru-autoregressive-text-img?tab=readme-ov-file) |
-| Eruku | Zero-Shot Styled Text Image Generation, but Make It Autoregressive | WACV 2026 | font-based, synthetic, line-level, autoregressive | [📄 Paper](https://arxiv.org/pdf/2510.23240) <br> [💻 Code](https://aimagelab.github.io/Eruku/) |
+| Eruku | Autoregressive Styled Text Image Generation, but Make it Reliable | WACV 2026 | font-based, synthetic, line-level, autoregressive | [📄 Paper](https://arxiv.org/pdf/2510.23240) <br> [💻 Code](https://aimagelab.github.io/Eruku/) |
 
 ---
 
